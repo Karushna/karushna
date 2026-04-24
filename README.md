@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 Currently working on developing practical, real-world applications  <br>- 🌱 Continuously learning and improving in modern software development practices  <br>- 👯 Open to collaborating on meaningful and impactful projects  <br>- 🤔 Interested in refining problem-solving skills and system design  <br>- 💬 Ask me about software development, learning strategies, or project building 
+<br>🔭 Currently working on developing practical, real-world applications  <br>🌱 Continuously learning and improving in modern software development practices  <br>👯 Open to collaborating on meaningful and impactful projects  <br>🤔 Interested in refining problem-solving skills and system design  <br>💬 Ask me about software development, learning strategies, or project building 
 
 
 ## 🌐 Socials:
