@@ -1,16 +1,52 @@
 ## Hi there 👋
 
-<!--
-**Karushna/karushna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Karushna — a developer focused on building reliable, scalable, and user-centered software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 About Me
+- 🔭 Currently working on developing practical, real-world applications  
+- 🌱 Continuously learning and improving in modern software development practices  
+- 👯 Open to collaborating on meaningful and impactful projects  
+- 🤔 Interested in refining problem-solving skills and system design  
+- 💬 Ask me about software development, learning strategies, or project building  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+JavaScript • Python • HTML5 • CSS3  
+
+**Frontend Development**  
+React.js • Tailwind CSS • Bootstrap  
+
+**Backend Development**  
+Node.js • Express.js  
+
+**Databases**  
+MongoDB • MySQL  
+
+**Tools & Technologies**  
+Git • GitHub • VS Code • Postman  
+
+**Other Skills**  
+REST APIs • Responsive Design • Problem Solving • Debugging  
+ 
+
+---
+
+### 🚀 Current Focus
+- Building scalable and maintainable applications  
+- Strengthening core programming fundamentals  
+- Writing clean, efficient, and well-documented code  
+
+---
+
+### 📫 Contact  
+- LinkedIn: `<[my LinkedIn](https://www.linkedin.com/in/karushna/)>`  
+
+---
+
+### ⚡ Philosophy
+> Consistency, clarity, and continuous improvement drive long-term success.
