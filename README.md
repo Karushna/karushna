@@ -1,2 +1,2 @@
-# My GitHub Stats:
+# My Stats:
 ![](https://streak-stats.demolab.com/?user=Karushna&theme=dark&hide_border=false)<br/>
